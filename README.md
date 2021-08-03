@@ -1,9 +1,9 @@
-This is a list of some of my projects -- large-scale ones, more intricate analyses, and other interesting but not data-related work.
+This is a list of some of my projects -- large-scale data projects, other analyses, and interesting but not data-related work.
 
 ### Main Projects
 - **[Spotify Cross-Playlist Prediction App](https://github.com/gjanesch/Spotify-Cross-Playlist-Prediction-App):** An RShiny app, intended to take two playlists, and make recommendations from one based on the content of the other.  The full implementation of the project used Spotify's API, R, Docker, and AWS.
 
-![Spotify app.](Spotify app.png)
+![Spotify app.](https://github.com/gjanesch/Personal-Project-List/blob/master/Spotify%20app.png)
 
 ### Other Analyses
 - **[Hangman Method Comparison](https://github.com/gjanesch/Hangman-Method-Comparison):** Attempting to code up a few different potential strategies in Hangman, and then tried to test them out using a list of English words.  Written in Python.
